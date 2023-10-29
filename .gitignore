@@ -1,1 +1,6 @@
-# ディレクトリ配下（のすべてのパスを）除外する
+# Alisha/Build/ フォルダ以下のデータを除外
+Alisha/Build/
+
+# Alisha/index.html ファイルを除外
+Alisha/index.html
+
